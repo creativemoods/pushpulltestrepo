@@ -1,0 +1,32 @@
+{
+    "adapterVersion": 1,
+    "derived": {
+        "generatedCss": ".gbp-card--border {border:1px solid #000000;}"
+    },
+    "displayName": ".gbp-card--border",
+    "logicalKey": "gbp-card--border",
+    "metadata": {
+        "restoration": {
+            "postType": "gblocks_styles"
+        }
+    },
+    "payload": {
+        "borderBottomColor": "#000000",
+        "borderBottomStyle": "solid",
+        "borderBottomWidth": "1px",
+        "borderLeftColor": "#000000",
+        "borderLeftStyle": "solid",
+        "borderLeftWidth": "1px",
+        "borderRightColor": "#000000",
+        "borderRightStyle": "solid",
+        "borderRightWidth": "1px",
+        "borderTopColor": "#000000",
+        "borderTopStyle": "solid",
+        "borderTopWidth": "1px"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": ".gbp-card--border",
+    "slug": "gbp-card-border",
+    "type": "generateblocks_global_style"
+}

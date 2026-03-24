@@ -1,0 +1,22 @@
+{
+    "adapterVersion": 1,
+    "derived": {
+        "generatedCss": ".gbp-card__title{font-size:1.25rem;margin-bottom:0.5rem}"
+    },
+    "displayName": ".gbp-card__title",
+    "logicalKey": "gbp-card__title",
+    "metadata": {
+        "restoration": {
+            "postType": "gblocks_styles"
+        }
+    },
+    "payload": {
+        "fontSize": "1.25rem",
+        "marginBottom": "0.5rem"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": ".gbp-card__title",
+    "slug": "gbp-card__title",
+    "type": "generateblocks_global_style"
+}

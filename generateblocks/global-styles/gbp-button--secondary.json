@@ -1,0 +1,43 @@
+{
+    "adapterVersion": 1,
+    "derived": {
+        "generatedCss": ".gbp-button--secondary{border:1px solid #000000;color:currentColor;display:inline-flex;font-size:1rem;padding:0.75rem 1.5rem;text-decoration:none}.gbp-button--secondary:is(:hover,:focus){color:currentColor}"
+    },
+    "displayName": ".gbp-button--secondary",
+    "logicalKey": "gbp-button--secondary",
+    "metadata": {
+        "restoration": {
+            "postType": "gblocks_styles"
+        }
+    },
+    "payload": {
+        "&:is(:hover, :focus)": {
+            "color": "currentColor"
+        },
+        "borderBottomColor": "#000000",
+        "borderBottomStyle": "solid",
+        "borderBottomWidth": "1px",
+        "borderLeftColor": "#000000",
+        "borderLeftStyle": "solid",
+        "borderLeftWidth": "1px",
+        "borderRightColor": "#000000",
+        "borderRightStyle": "solid",
+        "borderRightWidth": "1px",
+        "borderTopColor": "#000000",
+        "borderTopStyle": "solid",
+        "borderTopWidth": "1px",
+        "color": "currentColor",
+        "display": "inline-flex",
+        "fontSize": "1rem",
+        "paddingBottom": "0.75rem",
+        "paddingLeft": "1.5rem",
+        "paddingRight": "1.5rem",
+        "paddingTop": "0.75rem",
+        "textDecoration": "none"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": ".gbp-button--secondary",
+    "slug": "gbp-button-secondary",
+    "type": "generateblocks_global_style"
+}
