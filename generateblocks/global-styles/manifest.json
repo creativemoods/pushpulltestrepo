@@ -7,8 +7,8 @@
         "gbp-section__text",
         "gbp-section--background",
         "gbp-button--primary",
-        "gbp-card--border",
         "gbp-button--secondary",
+        "gbp-card--border",
         "gbp-card__title"
     ],
     "schemaVersion": 1,
