@@ -8,8 +8,8 @@
         "gbp-section--background",
         "gbp-button--primary",
         "gbp-button--secondary",
-        "gbp-card--border",
         "gbp-card__title"
+        "gbp-card--border",
     ],
     "schemaVersion": 1,
     "type": "generateblocks_global_styles_manifest"
