@@ -1,0 +1,18 @@
+{
+    "adapterVersion": 1,
+    "displayName": "Your Profile",
+    "logicalKey": "your-profile",
+    "metadata": {
+        "restoration": {
+            "postType": "page"
+        }
+    },
+    "payload": {
+        "postContent": "[pmpro_member_profile_edit]"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "your-profile",
+    "slug": "your-profile",
+    "type": "wordpress_page"
+}
