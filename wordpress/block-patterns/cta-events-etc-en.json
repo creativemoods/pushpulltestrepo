@@ -1,0 +1,48 @@
+{
+    "adapterVersion": 1,
+    "displayName": "CTA-events-etc-EN",
+    "logicalKey": "cta-events-etc-en",
+    "metadata": {
+        "postMeta": [
+            {
+                "key": "_generateblocks_dynamic_css_version",
+                "value": "1.9.1"
+            },
+            {
+                "key": "generateblocks_patterns_tree",
+                "value": [
+                    {
+                        "categories": [],
+                        "globalStyleSelectors": [],
+                        "id": "pattern-1800",
+                        "label": "CTA-events-etc-EN",
+                        "pattern": "<!-- wp:generateblocks/container {\"uniqueId\":\"f0d542b0\",\"backgroundColor\":\"var(\\u002d\\u002dbase-3)\",\"isDynamic\":true,\"blockVersion\":4,\"typography\":{\"textAlign\":\"center\"},\"spacing\":{\"paddingTop\":\"30px\",\"paddingLeft\":\"20px\",\"paddingBottom\":\"30px\",\"paddingRight\":\"20px\",\"marginTop\":\"40px\"},\"borders\":{\"borderTopLeftRadius\":\"8px\",\"borderTopRightRadius\":\"8px\",\"borderBottomLeftRadius\":\"8px\",\"borderBottomRightRadius\":\"8px\"},\"className\":\"only-logged-out\",\"useBoxShadow\":true,\"boxShadows\":[{\"state\":\"normal\",\"target\":\"self\",\"customSelector\":\"\",\"inset\":false,\"color\":\"rgba(0,0,0,0.1)\",\"xOffset\":5,\"yOffset\":5,\"blur\":10,\"spread\":\"\"}]} -->\n<!-- wp:generateblocks/headline {\"uniqueId\":\"cf2471ae\",\"blockVersion\":3} -->\n<h2 class=\"gb-headline gb-headline-cf2471ae gb-headline-text\"><strong>Find your favorite activities faster!</strong></h2>\n<!-- /wp:generateblocks/headline -->\n\n<!-- wp:paragraph -->\n<p><em>In just a few clicks, the platform selects activities tailored to your children’s ages, your neighborhood, and your availability — designed to match </em>your<em> family’s interests.</em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:generateblocks/button {\"uniqueId\":\"8eb73d9b\",\"hasUrl\":true,\"blockVersion\":4,\"display\":\"inline-flex\",\"spacing\":{\"paddingTop\":\"15px\",\"paddingRight\":\"20px\",\"paddingBottom\":\"15px\",\"paddingLeft\":\"20px\"},\"backgroundColor\":\"#0366d6\",\"backgroundColorHover\":\"#222222\",\"textColor\":\"#ffffff\",\"textColorHover\":\"#ffffff\"} -->\n<a class=\"gb-button gb-button-8eb73d9b gb-button-text\" href=\"/en/search\">👉 Discover my personalized activities</a>\n<!-- /wp:generateblocks/button -->\n<!-- /wp:generateblocks/container -->",
+                        "preview": "",
+                        "scripts": []
+                    }
+                ]
+            }
+        ],
+        "restoration": {
+            "postType": "wp_block"
+        },
+        "terms": [
+            {
+                "description": "",
+                "name": "Local",
+                "parentSlug": "",
+                "slug": "local-patterns",
+                "taxonomy": "gblocks_pattern_collections",
+                "termMeta": []
+            }
+        ]
+    },
+    "payload": {
+        "postContent": "<!-- wp:generateblocks/container {\"uniqueId\":\"f0d542b0\",\"backgroundColor\":\"var(\\u002d\\u002dbase-3)\",\"isDynamic\":true,\"blockVersion\":4,\"typography\":{\"textAlign\":\"center\"},\"spacing\":{\"paddingTop\":\"30px\",\"paddingLeft\":\"20px\",\"paddingBottom\":\"30px\",\"paddingRight\":\"20px\",\"marginTop\":\"40px\"},\"borders\":{\"borderTopLeftRadius\":\"8px\",\"borderTopRightRadius\":\"8px\",\"borderBottomLeftRadius\":\"8px\",\"borderBottomRightRadius\":\"8px\"},\"className\":\"only-logged-out\",\"useBoxShadow\":true,\"boxShadows\":[{\"state\":\"normal\",\"target\":\"self\",\"customSelector\":\"\",\"inset\":false,\"color\":\"rgba(0,0,0,0.1)\",\"xOffset\":5,\"yOffset\":5,\"blur\":10,\"spread\":\"\"}]} -->\n<!-- wp:generateblocks/headline {\"uniqueId\":\"cf2471ae\",\"blockVersion\":3} -->\n<h2 class=\"gb-headline gb-headline-cf2471ae gb-headline-text\"><strong>Find your favorite activities faster!</strong></h2>\n<!-- /wp:generateblocks/headline -->\n\n<!-- wp:paragraph -->\n<p><em>In just a few clicks, the platform selects activities tailored to your children’s ages, your neighborhood, and your availability — designed to match </em>your<em> family’s interests.</em></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:generateblocks/button {\"uniqueId\":\"8eb73d9b\",\"hasUrl\":true,\"blockVersion\":4,\"display\":\"inline-flex\",\"spacing\":{\"paddingTop\":\"15px\",\"paddingRight\":\"20px\",\"paddingBottom\":\"15px\",\"paddingLeft\":\"20px\"},\"backgroundColor\":\"#0366d6\",\"backgroundColorHover\":\"#222222\",\"textColor\":\"#ffffff\",\"textColorHover\":\"#ffffff\"} -->\n<a class=\"gb-button gb-button-8eb73d9b gb-button-text\" href=\"/en/search\">👉 Discover my personalized activities</a>\n<!-- /wp:generateblocks/button -->\n<!-- /wp:generateblocks/container -->"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "cta-events-etc-en",
+    "slug": "cta-events-etc-en",
+    "type": "wordpress_block_pattern"
+}
