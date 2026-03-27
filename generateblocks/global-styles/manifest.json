@@ -1,0 +1,13 @@
+{
+    "orderedLogicalKeys": [
+        "gbp-section",
+        "gbp-section__inner",
+        "gbp-section__tagline",
+        "gbp-section__headline",
+        "gbp-section__text",
+        "gbp-section--background",
+        "gbp-button--primary"
+    ],
+    "schemaVersion": 1,
+    "type": "generateblocks_global_styles_manifest"
+}
