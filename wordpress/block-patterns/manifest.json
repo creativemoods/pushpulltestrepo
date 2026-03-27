@@ -1,0 +1,18 @@
+{
+    "orderedLogicalKeys": [
+        "blog-post-left-image",
+        "blog-post-row-right-image",
+        "blogitem",
+        "blogitemright",
+        "cta-events-etc-en",
+        "cta-events-etc-fr-copy",
+        "dont-miss-out-events-en",
+        "dont-miss-out-events-fr",
+        "lockedcard",
+        "lockedcard-fr",
+        "social-share",
+        "visiblecard"
+    ],
+    "schemaVersion": 1,
+    "type": "wordpress_block_patterns_manifest"
+}
