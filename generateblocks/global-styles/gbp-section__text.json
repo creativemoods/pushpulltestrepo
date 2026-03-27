@@ -1,0 +1,21 @@
+{
+    "adapterVersion": 1,
+    "derived": {
+        "generatedCss": ".gbp-section__text {font-size:1.125rem;}"
+    },
+    "displayName": ".gbp-section__text",
+    "logicalKey": "gbp-section__text",
+    "metadata": {
+        "restoration": {
+            "postType": "gblocks_styles"
+        }
+    },
+    "payload": {
+        "fontSize": "1.125rem"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": ".gbp-section__text",
+    "slug": "gbp-section__text",
+    "type": "generateblocks_global_style"
+}
