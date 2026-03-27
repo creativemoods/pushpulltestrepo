@@ -1,0 +1,90 @@
+{
+    "adapterVersion": 1,
+    "displayName": "Color logo - no background",
+    "logicalKey": "color-logo-no-background-png",
+    "metadata": {
+        "attachmentMetadata": {
+            "file": "Color-logo-no-background.png",
+            "filesize": 483344,
+            "height": 3147,
+            "image_meta": {
+                "aperture": "0",
+                "camera": "",
+                "caption": "",
+                "copyright": "",
+                "created_timestamp": "0",
+                "credit": "",
+                "focal_length": "0",
+                "iso": "0",
+                "keywords": [],
+                "orientation": "0",
+                "shutter_speed": "0",
+                "title": ""
+            },
+            "sizes": {
+                "1536x1536": {
+                    "file": "Color-logo-no-background-1536x1514.png",
+                    "filesize": 293813,
+                    "height": 1514,
+                    "mime-type": "image/png",
+                    "width": 1536
+                },
+                "2048x2048": {
+                    "file": "Color-logo-no-background-2048x2019.png",
+                    "filesize": 433800,
+                    "height": 2019,
+                    "mime-type": "image/png",
+                    "width": 2048
+                },
+                "large": {
+                    "file": "Color-logo-no-background-1024x1010.png",
+                    "filesize": 170958,
+                    "height": 1010,
+                    "mime-type": "image/png",
+                    "width": 1024
+                },
+                "medium": {
+                    "file": "Color-logo-no-background-300x296.png",
+                    "filesize": 32548,
+                    "height": 296,
+                    "mime-type": "image/png",
+                    "width": 300
+                },
+                "medium_large": {
+                    "file": "Color-logo-no-background-768x757.png",
+                    "filesize": 115812,
+                    "height": 757,
+                    "mime-type": "image/png",
+                    "width": 768
+                },
+                "thumbnail": {
+                    "file": "Color-logo-no-background-150x150.png",
+                    "filesize": 12957,
+                    "height": 150,
+                    "mime-type": "image/png",
+                    "width": 150
+                }
+            },
+            "width": 3192
+        },
+        "restoration": {
+            "postType": "attachment"
+        }
+    },
+    "payload": {
+        "altText": "",
+        "binaryFile": "Color-logo-no-background.png",
+        "binarySha1": "d5e7d5b243eb0b1028111aaf72aaabe7462bdc80",
+        "caption": "",
+        "description": "",
+        "filename": "Color-logo-no-background.png",
+        "mimeType": "image/png",
+        "title": "Color logo - no background",
+        "uploadsPath": "Color-logo-no-background.png"
+    },
+    "postStatus": "inherit",
+    "schemaVersion": 1,
+    "selector": "color-logo-no-background-png",
+    "slug": "color-logo-no-background",
+    "type": "wordpress_attachment"
+}
