@@ -1,0 +1,18 @@
+{
+    "adapterVersion": 1,
+    "displayName": "test",
+    "logicalKey": "test",
+    "metadata": {
+        "restoration": {
+            "postType": "page"
+        }
+    },
+    "payload": {
+        "postContent": "<!-- wp:shortcode -->\n[facetwp facet=\"type\"]\n<!-- /wp:shortcode -->\n\n<!-- wp:shortcode -->\n[facetwp facet=\"show_old\"]\n<!-- /wp:shortcode -->\n\n<!-- wp:shortcode -->\n[facetwp template=\"premium\"]\n<!-- /wp:shortcode -->"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "test",
+    "slug": "test",
+    "type": "wordpress_page"
+}

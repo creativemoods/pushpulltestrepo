@@ -1,0 +1,18 @@
+{
+    "adapterVersion": 1,
+    "displayName": "opt-out",
+    "logicalKey": "opt-out",
+    "metadata": {
+        "restoration": {
+            "postType": "page"
+        }
+    },
+    "payload": {
+        "postContent": "<!-- wp:generateblocks/container {\"uniqueId\":\"5a6344a3\",\"bgOptions\":{\"selector\":\"pseudo-element\",\"opacity\":0.22,\"overlay\":false,\"position\":\"center center\",\"size\":\"cover\",\"repeat\":\"no-repeat\",\"attachment\":\"\"},\"isDynamic\":true,\"blockVersion\":4,\"position\":\"relative\",\"overflowX\":\"hidden\",\"overflowY\":\"hidden\",\"spacing\":{\"paddingTop\":\"100px\",\"paddingBottom\":\"100px\"}} -->\n<!-- wp:generateblocks/container {\"uniqueId\":\"e7f79de8\",\"backgroundColor\":\"#ffffff\",\"isDynamic\":true,\"blockVersion\":4,\"position\":\"relative\",\"zindex\":9,\"useGlobalMaxWidth\":true,\"spacing\":{\"marginRight\":\"auto\",\"marginLeft\":\"auto\",\"paddingTop\":\"50px\",\"paddingBottom\":\"50px\",\"paddingLeft\":\"30px\",\"paddingRight\":\"30px\",\"paddingLeftMobile\":\"\",\"marginLeftMobile\":\"15px\",\"marginRightMobile\":\"15px\"}} -->\n<!-- wp:generateblocks/headline {\"uniqueId\":\"12e30ab2\",\"blockVersion\":3,\"typography\":{\"textAlign\":\"center\",\"fontWeight\":\"700\",\"fontSize\":\"34px\"},\"textColor\":\"#333333\"} -->\n<h2 class=\"gb-headline gb-headline-12e30ab2 gb-headline-text\">Email preferences</h2>\n<!-- /wp:generateblocks/headline -->\n\n<!-- wp:generateblocks/container {\"uniqueId\":\"11f06b28\",\"textColor\":\"#375e97\",\"isDynamic\":true,\"blockVersion\":4,\"sizing\":{\"maxWidth\":\"15%\",\"maxHeight\":\"\"},\"spacing\":{\"marginTop\":\"0px\",\"marginBottom\":\"0px\",\"marginLeft\":\"auto\",\"marginRight\":\"auto\",\"paddingTop\":\"\"}} -->\n<!-- wp:separator {\"className\":\"brder-line\",\"backgroundColor\":\"accent\"} -->\n<hr class=\"wp-block-separator has-text-color has-accent-color has-alpha-channel-opacity has-accent-background-color has-background brder-line\"/>\n<!-- /wp:separator -->\n<!-- /wp:generateblocks/container -->\n\n<!-- wp:generateblocks/headline {\"uniqueId\":\"49c0c512\",\"element\":\"h4\",\"blockVersion\":3,\"typography\":{\"textAlign\":\"center\",\"fontSizeMobile\":\"20px\"},\"spacing\":{\"paddingLeft\":\"160px\",\"paddingRight\":\"160px\",\"marginTop\":\"-30px\",\"paddingLeftMobile\":\"0px\",\"paddingRightMobile\":\"0px\"}} -->\n<h4 class=\"gb-headline gb-headline-49c0c512 gb-headline-text\">[le_digest_optout_notice]</h4>\n<!-- /wp:generateblocks/headline -->\n<!-- /wp:generateblocks/container -->\n<!-- /wp:generateblocks/container -->"
+    },
+    "postStatus": "publish",
+    "schemaVersion": 1,
+    "selector": "opt-out",
+    "slug": "opt-out",
+    "type": "wordpress_page"
+}
